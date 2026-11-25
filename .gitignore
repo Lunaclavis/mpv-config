@@ -1,0 +1,13 @@
+# System file
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Hash
+*.sha256
+*.sha512
+*.sha3-256
+*.sha3-512
+
+# Fonts
+NotoSansCJK.ttc
